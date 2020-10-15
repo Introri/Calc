@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\Desktop\CVP\Calc\obj\Debug\
+C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\
 Calc
 none
 false
 DEBUG;TRACE
-C:\Users\User\Desktop\CVP\Calc\App.xaml
-41067923386
+C:\Users\User\source\repos\NewRepo\Calc\App.xaml
+51501297772
 
-91446329424
-15-278986427
-MainWindow.xaml;TaskWindow.xaml;Window1.xaml;Window2.xaml;
+10-1465393166
+162038434310
+MainWindow.xaml;TaskWindow.xaml;Window1.xaml;Window2.xaml;Window3.xaml;
 
-False
+True
 

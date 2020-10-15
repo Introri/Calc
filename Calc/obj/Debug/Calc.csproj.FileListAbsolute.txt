@@ -70,3 +70,7 @@ C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.
 C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Calc.csproj.CopyComplete
 C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Calc.exe
 C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Calc.pdb
+C:\Users\User\source\repos\NewRepo\Calc\bin\Debug\ClassLibrary2.dll
+C:\Users\User\source\repos\NewRepo\Calc\bin\Debug\ClassLibrary2.pdb
+C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Window3.g.cs
+C:\Users\User\source\repos\NewRepo\Calc\obj\Debug\Window3.baml

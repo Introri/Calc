@@ -18,5 +18,6 @@
         <Label Content="Меню" HorizontalAlignment="Left" Margin="346,28,0,0" VerticalAlignment="Top" Height="56" Width="115" FontSize="36"/>
         <Button Content="3. Умножение" HorizontalAlignment="Left" Margin="277,261,0,0" VerticalAlignment="Top" Width="247" Click="Button_Click_2" Height="47" FontSize="22" Background="Red"/>
         <Button Content="Выход" HorizontalAlignment="Left" Margin="336,333,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click_3" Height="47" FontSize="24" Background="Red"/>
+        <Button Content="4. Степень" HorizontalAlignment="Left" Margin="586,261,0,0" VerticalAlignment="Top" Width="117" Height="47" Click="Button_Click_4" FontSize="20"/>
     </Grid>
 </Window>

@@ -64,6 +64,9 @@
     <Compile Include="Window2.xaml.cs">
       <DependentUpon>Window2.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Window3.xaml.cs">
+      <DependentUpon>Window3.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -85,6 +88,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Window2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window3.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -116,6 +123,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\lab\ClassLibrary2\ClassLibrary2.csproj">
+      <Project>{7c894592-25ae-43cd-b1e0-5060f0c4a869}</Project>
+      <Name>ClassLibrary2</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
       <Project>{9c9955c8-8685-46b2-88b2-20253539b62a}</Project>
       <Name>ClassLibrary1</Name>

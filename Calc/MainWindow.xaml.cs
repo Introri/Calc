@@ -49,5 +49,11 @@ namespace Calc
         {
             this.Close();
         }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            Window3 window3 = new Window3();
+            window3.Show();
+        }
     }
 }
